@@ -8,7 +8,7 @@ const PLAYERS = [
 ];
 
 const MATCHES = [
-  ["Edin","Sjoerd",0,2],
+  ["Edin","Sjoerd",1,2],
   ["Damian","Kevin",2,0],
   ["Daan","Alexander",2,1],
   ["Arjan","Ray",0,2],
